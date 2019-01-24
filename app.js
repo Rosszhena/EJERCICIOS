@@ -1,3 +1,10 @@
+// Toda la documentación necesaria se encuentra en
+//
+// https://developer.mozilla.org/es/
+//
+// Se utiliza mocha para realizar pruebas unitarias
+// a los problemas de este examen
+
 // 1 - binarioDecimal()
 // Crear una función que reciba como parámetro un arreglo de números, estos números serán 0s y 1s que representan un número binario. La función debe retornar el valor numérico en base 10 de arreglo
 
@@ -11,5 +18,8 @@
 // Crear una función que reciba un arreglo de números y una base. La función debe retornar un arreglo del resultado de multiplicar los elementos del arreglo por la base
 
 module.exports = {
-
+  binarioDecimal,
+  numeroMaximo,
+  sinVocales,
+  multiplicar
 }
